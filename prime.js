@@ -5,6 +5,7 @@ const number = parseInt(prompt("Enter a positive number: "));
 let isPrime = true;
 
 const PI = 3.141592653589793;
+var accesskey = AKSQJGSSS;
 
 // check if number is equal to 1
 if (number === 1) {
